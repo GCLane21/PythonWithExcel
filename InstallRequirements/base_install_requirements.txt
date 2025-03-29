@@ -1,0 +1,4 @@
+If you do not have bash installed on your system please run the required packages like so:
+
+conda create -y -n excel_test_env python=3.10 pandas openpyxl pytest pytest-cov
+conda activate excel_test_env
